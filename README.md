@@ -1,2 +1,2 @@
-# mynewrepo
-# for testing
+# Porject - mynewrepo
+# for demo
